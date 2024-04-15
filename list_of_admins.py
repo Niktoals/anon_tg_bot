@@ -1,0 +1,1 @@
+list_of_admins=['tg_id_admin1', 'tg_id_admin2', 'tg_id_admin3']
